@@ -1,0 +1,198 @@
+2015-09-08 09:02:05 [TestNG]-[INFO] Using Firefox
+2015-09-08 09:02:05 [TestNG]-[INFO] Started BrowserEmulator
+2015-09-08 09:02:05 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:06 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:07 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:08 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:08 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:08 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:09 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:09 [TestNG]-[INFO] Found text 忘记密码？
+2015-09-08 09:02:09 [TestNG]-[INFO] Found desired text 忘记密码？
+2015-09-08 09:02:09 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:09 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:10 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:11 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:11 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:11 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:11 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:12 [TestNG]-[INFO] Found element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 09:02:12 [TestNG]-[INFO] Found desired element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 09:02:12 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:12 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:13 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:13 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:13 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:13 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:14 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:14 [TestNG]-[INFO] Found element //div[@class='user_password']//img[@src='/images/icons/user_password_img.png']
+2015-09-08 09:02:14 [TestNG]-[INFO] Found desired element //div[@class='user_password']//img[@src='/images/icons/user_password_img.png']
+2015-09-08 09:02:14 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:15 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:15 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:16 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:16 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:16 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:17 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:17 [TestNG]-[INFO] Found text 注册
+2015-09-08 09:02:17 [TestNG]-[INFO] Found desired text 注册
+2015-09-08 09:02:17 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:17 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:18 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:19 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:19 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:19 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:19 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:21 [TestNG]-[INFO] Pause 2000 ms
+2015-09-08 09:02:21 [TestNG]-[INFO] Not found element//*[@id='autologin']
+2015-09-08 09:02:21 [TestNG]-[INFO] Not found undesired element //*[@id='autologin']
+2015-09-08 09:02:22 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:22 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:23 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:23 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:23 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:23 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:24 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:24 [TestNG]-[INFO] Found text 记住密码
+2015-09-08 09:02:24 [TestNG]-[INFO] Found desired text 记住密码
+2015-09-08 09:02:24 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 09:02:25 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:25 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:26 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:26 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:26 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:27 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:27 [TestNG]-[INFO] Found element //div[@class='user_name']//img[@src='/images/icons/user_name_img.png']
+2015-09-08 09:02:27 [TestNG]-[INFO] Found desired element //div[@class='user_name']//img[@src='/images/icons/user_name_img.png']
+2015-09-08 09:02:27 [TestNG]-[INFO] 登陆oradt: '15811323400' password: '000000'
+2015-09-08 09:02:28 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:28 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 09:02:29 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:29 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:29 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:30 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 09:02:30 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:30 [TestNG]-[INFO] Found element //input[@id='username']
+2015-09-08 09:02:30 [TestNG]-[INFO] Found desired element //input[@id='username']
+2015-09-08 09:02:30 [TestNG]-[INFO] Type 15811323400 at //input[@id='username']
+2015-09-08 09:02:31 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:31 [TestNG]-[INFO] Found element //input[@id='password']
+2015-09-08 09:02:31 [TestNG]-[INFO] Found desired element //input[@id='password']
+2015-09-08 09:02:31 [TestNG]-[INFO] Type 000000 at //input[@id='password']
+2015-09-08 09:02:32 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:32 [TestNG]-[INFO] Found element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 09:02:32 [TestNG]-[INFO] Found desired element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 09:02:32 [TestNG]-[INFO] Clicked //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 09:02:33 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:33 [TestNG]-[INFO] Not found element//i[@title='zhangdongxiang']
+2015-09-08 09:02:34 [TestNG]-[INFO] Found element //i[@title='zhangdongxiang']
+2015-09-08 09:02:34 [TestNG]-[INFO] Found desired element //i[@title='zhangdongxiang']
+2015-09-08 09:02:34 [TestNG]-[INFO] 登陆成功！
+2015-09-08 09:02:34 [TestNG]-[INFO] 退出系统: '15811323400'
+2015-09-08 09:02:35 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:35 [TestNG]-[INFO] Found element //a[@href= '/home/login/logout.html']
+2015-09-08 09:02:35 [TestNG]-[INFO] Found desired element //a[@href= '/home/login/logout.html']
+2015-09-08 09:02:35 [TestNG]-[INFO] Clicked //a[@href= '/home/login/logout.html']
+2015-09-08 09:02:36 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 09:02:36 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 09:02:36 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 09:02:37 [TestNG]-[INFO] Quitted BrowserEmulator
+2015-09-08 15:57:38 [TestNG]-[INFO] Using Firefox
+2015-09-08 15:57:38 [TestNG]-[INFO] Started BrowserEmulator
+2015-09-08 15:57:38 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:39 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:40 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:57:41 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:41 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:57:41 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:57:42 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:57:42 [TestNG]-[INFO] Found text 忘记密码？
+2015-09-08 15:57:42 [TestNG]-[INFO] Found desired text 忘记密码？
+2015-09-08 15:57:42 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:43 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:43 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:57:44 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:44 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:57:44 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:57:45 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:57:45 [TestNG]-[INFO] Found element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 15:57:45 [TestNG]-[INFO] Found desired element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 15:57:45 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:46 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:46 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:57:47 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:47 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:57:47 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:57:48 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:57:48 [TestNG]-[INFO] Found element //div[@class='user_password']//img[@src='/images/icons/user_password_img.png']
+2015-09-08 15:57:48 [TestNG]-[INFO] Found desired element //div[@class='user_password']//img[@src='/images/icons/user_password_img.png']
+2015-09-08 15:57:48 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:48 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:49 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:57:50 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:50 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:57:50 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:57:50 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:57:51 [TestNG]-[INFO] Found text 注册
+2015-09-08 15:57:51 [TestNG]-[INFO] Found desired text 注册
+2015-09-08 15:57:51 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:51 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:52 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:57:52 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:52 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:57:52 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:57:53 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:57:55 [TestNG]-[INFO] Pause 2000 ms
+2015-09-08 15:57:55 [TestNG]-[INFO] Not found element//*[@id='autologin']
+2015-09-08 15:57:55 [TestNG]-[INFO] Not found undesired element //*[@id='autologin']
+2015-09-08 15:57:55 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:56 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:57 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:57:57 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:57 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:57:57 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:57:58 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:57:58 [TestNG]-[INFO] Found text 记住密码
+2015-09-08 15:57:58 [TestNG]-[INFO] Found desired text 记住密码
+2015-09-08 15:57:58 [TestNG]-[INFO] open url: 'http://192.168.30.142/home/index/Index.html'
+2015-09-08 15:57:59 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:57:59 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:58:00 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:00 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:58:00 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:58:01 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:58:01 [TestNG]-[INFO] Found element //div[@class='user_name']//img[@src='/images/icons/user_name_img.png']
+2015-09-08 15:58:01 [TestNG]-[INFO] Found desired element //div[@class='user_name']//img[@src='/images/icons/user_name_img.png']
+2015-09-08 15:58:01 [TestNG]-[INFO] 登陆oradt: '15811323400' password: '000000'
+2015-09-08 15:58:01 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:02 [TestNG]-[INFO] Opened url http://192.168.30.142/home/index/Index.html
+2015-09-08 15:58:03 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:03 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:58:03 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:58:03 [TestNG]-[INFO] Clicked //b[text()='个人账户']
+2015-09-08 15:58:04 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:04 [TestNG]-[INFO] Found element //input[@id='username']
+2015-09-08 15:58:04 [TestNG]-[INFO] Found desired element //input[@id='username']
+2015-09-08 15:58:04 [TestNG]-[INFO] Type 15811323400 at //input[@id='username']
+2015-09-08 15:58:05 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:05 [TestNG]-[INFO] Found element //input[@id='password']
+2015-09-08 15:58:05 [TestNG]-[INFO] Found desired element //input[@id='password']
+2015-09-08 15:58:05 [TestNG]-[INFO] Type 000000 at //input[@id='password']
+2015-09-08 15:58:05 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:05 [TestNG]-[INFO] Found element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 15:58:05 [TestNG]-[INFO] Found desired element //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 15:58:06 [TestNG]-[INFO] Clicked //div[@class='user_bottom']//input[@class='input_tj cls_login_buton']
+2015-09-08 15:58:06 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:06 [TestNG]-[INFO] Not found element//i[@title='zhangdongxiang']
+2015-09-08 15:58:08 [TestNG]-[INFO] Found element //i[@title='zhangdongxiang']
+2015-09-08 15:58:08 [TestNG]-[INFO] Found desired element //i[@title='zhangdongxiang']
+2015-09-08 15:58:08 [TestNG]-[INFO] 登陆成功！
+2015-09-08 15:58:08 [TestNG]-[INFO] 退出系统: '15811323400'
+2015-09-08 15:58:08 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:08 [TestNG]-[INFO] Found element //a[@href= '/home/login/logout.html']
+2015-09-08 15:58:08 [TestNG]-[INFO] Found desired element //a[@href= '/home/login/logout.html']
+2015-09-08 15:58:08 [TestNG]-[INFO] Clicked //a[@href= '/home/login/logout.html']
+2015-09-08 15:58:09 [TestNG]-[INFO] Found element //b[text()='个人账户']
+2015-09-08 15:58:09 [TestNG]-[INFO] Found desired element //b[text()='个人账户']
+2015-09-08 15:58:10 [TestNG]-[INFO] Pause 500 ms
+2015-09-08 15:58:10 [TestNG]-[INFO] Quitted BrowserEmulator

@@ -1,0 +1,1142 @@
+2015-01-05 10:28:40 [main]-[INFO] Using Firefox
+2015-01-05 10:28:41 [main]-[INFO] Started BrowserEmulator
+2015-01-05 10:28:41 [main]-[INFO] 登陆G7s: 'zc_admin' password: '123456'
+2015-01-05 10:28:42 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:44 [main]-[INFO] Opened url http://gateway2.huoyunren.net:8100/index.html
+2015-01-05 10:28:44 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:46 [main]-[INFO] Found element //input[@id='username']
+2015-01-05 10:28:46 [main]-[INFO] Found desired element //input[@id='username']
+2015-01-05 10:28:47 [main]-[INFO] Type zc_admin at //input[@id='username']
+2015-01-05 10:28:47 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:47 [main]-[INFO] Found element //input[@id='passwd']
+2015-01-05 10:28:47 [main]-[INFO] Found desired element //input[@id='passwd']
+2015-01-05 10:28:48 [main]-[INFO] Type 123456 at //input[@id='passwd']
+2015-01-05 10:28:48 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:48 [main]-[INFO] Found element //button[@id= 'form_button']
+2015-01-05 10:28:48 [main]-[INFO] Found desired element //button[@id= 'form_button']
+2015-01-05 10:28:48 [main]-[INFO] Clicked //button[@id= 'form_button']
+2015-01-05 10:28:54 [main]-[INFO] Found element //a[@title='退出系统']
+2015-01-05 10:28:54 [main]-[INFO] Found desired element //a[@title='退出系统']
+2015-01-05 10:28:54 [main]-[INFO] 登陆成功！
+2015-01-05 10:28:54 [main]-[INFO] 进入' 干线任务管理'
+2015-01-05 10:28:55 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:55 [main]-[INFO] Found element //a[@title='移动任务']
+2015-01-05 10:28:55 [main]-[INFO] Found desired element //a[@title='移动任务']
+2015-01-05 10:28:55 [main]-[INFO] Clicked //a[@title='移动任务']
+2015-01-05 10:28:56 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:56 [main]-[INFO] Found element //a[@title='干线任务管理']
+2015-01-05 10:28:56 [main]-[INFO] Found desired element //a[@title='干线任务管理']
+2015-01-05 10:28:56 [main]-[INFO] Clicked //a[@title='干线任务管理']
+2015-01-05 10:28:56 [main]-[INFO] ------11111111111:[[Ljava.lang.String;@1bfa3d3------
+2015-01-05 10:28:56 [main]-[INFO] ------22222222222:{issign_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, issign_no=//a[text()='未确认'], cancel_title=//h4[@id='myModalLabel' and text()='任务取消'], assign_title=//h4[@id='myModalLabel' and text()='送货任务指派'], send_assign=//a[text()='下发'], select_sign=//option[text()='签收'], delivering_text=//a[@class='label label-primary grid_status1'], issued_no1=//a[text()=' 未下发(1)'], signNormal_text=//a[text()=' 正常签收(1)'], rollback_changeOK=//form[@id='custom']//div[2]//button[@class='btn btn-primary'], change_stateTitle=//h4[text()='状态变更'], assign_no=//a[text()=' 未指派(0)'], select_row=//tr[@class='odd']//td[3], noStartText1=//a[text()=' 未开始(1)'], issign_successNo=//span[@id='successNum'], task_code=//input[@name='taskcode'], sign=//a[text()='签收'], frame=//iframe[@id='content-frame'], btn_search=//a[@id='btnSearch'], select_delivering=//option[text()='提货中'], tinput2=//input[@id='tmpofpostman'], cancel_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, right_weizhipai=//a[text()=' 未指派(1)'], change_state=//a[text()='变更状态'], delivering_text1=//a[text()=' 提货中(1)'], CompleteType_signNormal=//span[text()='正常签收'], changeState_ok=//form[@id='customFieldForm']//div[2]//button[@class='btn btn-primary'], num_close=//div[@id='resultModal']//h4[1]/preceding-sibling::button, rollback_title=//h4[text()='状态回退'], right_taskbtn=//i[@class='fa fa-tasks'], cancel_successNo=//span[@id='successNum'], cancel_reason=//textarea[@id='selArea'], state_rollbackBtn=//div//a[2][@class='btn btn-default btn-only-one'], success_num=//span[@id='successNum'], cancel_text=//a[@class='donetype label label-danger'], tsave=//button[@id='saveAppoint'], cancel_ok=//button[@id='selSubmit'], tclick=//span[@class='select2-chosen' and text()='投递员姓名'], noStartText=//a[text()='未开始'], sign1=//a[text()=' 签收(1)'], issued_no=//a[text()='未下发'], task_time=//input[@name='tasktime'], task_weizhipai=//span[@class='label label-default'], issign_no1=//a[text()=' 未确认(1)'], cancel_btn=//a[text()='取消'], cancel_text1=//a[text()=' 取消(1)'], tmatch=//span[@class='select2-match'], select_noStart=//select[@id='statuslist_b']//option[text()='未开始'], tinput=//input[@id='s2id_autogen3']}------
+2015-01-05 10:28:56 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\TrunkData_temp.xls------
+2015-01-05 10:28:57 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:57 [main]-[INFO] Left the iframe
+2015-01-05 10:28:58 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:58 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:28:58 [main]-[INFO] Pause 500 ms
+2015-01-05 10:28:59 [main]-[INFO] Found element //a[text()='导入']
+2015-01-05 10:28:59 [main]-[INFO] Found desired element //a[text()='导入']
+2015-01-05 10:29:00 [main]-[INFO] Clicked //a[text()='导入']
+2015-01-05 10:29:00 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:00 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:01 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:01 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 10:29:01 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 10:29:01 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 10:29:02 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:02 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:29:02 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:29:02 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:29:02 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:03 [main]-[INFO] Left the iframe
+2015-01-05 10:29:03 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:03 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:04 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:04 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:29:04 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:29:04 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 10:29:05 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:05 [main]-[INFO] Left the iframe
+2015-01-05 10:29:05 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:05 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:06 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:06 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:29:06 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:29:06 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 10:29:07 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:07 [main]-[INFO] Left the iframe
+2015-01-05 10:29:07 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\addgoods_temp.xls------
+2015-01-05 10:29:08 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:08 [main]-[INFO] Left the iframe
+2015-01-05 10:29:08 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:08 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:09 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:09 [main]-[INFO] Found element //a[text()='导入货品']
+2015-01-05 10:29:09 [main]-[INFO] Found desired element //a[text()='导入货品']
+2015-01-05 10:29:09 [main]-[INFO] Clicked //a[text()='导入货品']
+2015-01-05 10:29:10 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:10 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:11 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:11 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 10:29:11 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 10:29:11 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 10:29:12 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:12 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:29:12 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:29:12 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:29:12 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:13 [main]-[INFO] Left the iframe
+2015-01-05 10:29:13 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:13 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:14 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:14 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:29:14 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:29:14 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 10:29:15 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:15 [main]-[INFO] Left the iframe
+2015-01-05 10:29:15 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:15 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:16 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:16 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:29:16 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:29:16 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 10:29:17 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:17 [main]-[INFO] Left the iframe
+2015-01-05 10:29:17 [main]-[INFO] ------查找 任务A:2015010401------
+2015-01-05 10:29:17 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:17 [main]-[INFO] Left the iframe
+2015-01-05 10:29:18 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:18 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:29:19 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:19 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 10:29:19 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 10:29:19 [main]-[INFO] Type 2015010401 at //input[@name='taskcode']
+2015-01-05 10:29:22 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:29:22 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:22 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 10:29:22 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 10:29:23 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 10:29:26 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:29:26 [main]-[INFO] Pause 500 ms
+2015-01-05 10:29:26 [main]-[INFO] Quitted BrowserEmulator
+2015-01-05 10:30:21 [main]-[INFO] Using Firefox
+2015-01-05 10:30:21 [main]-[INFO] Started BrowserEmulator
+2015-01-05 10:30:21 [main]-[INFO] 登陆G7s: 'zc_admin' password: '123456'
+2015-01-05 10:30:22 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:23 [main]-[INFO] Opened url http://gateway2.huoyunren.net:8100/index.html
+2015-01-05 10:30:24 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:24 [main]-[INFO] Not found element//input[@id='username']
+2015-01-05 10:30:25 [main]-[INFO] Found element //input[@id='username']
+2015-01-05 10:30:25 [main]-[INFO] Found desired element //input[@id='username']
+2015-01-05 10:30:26 [main]-[INFO] Type zc_admin at //input[@id='username']
+2015-01-05 10:30:26 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:26 [main]-[INFO] Found element //input[@id='passwd']
+2015-01-05 10:30:26 [main]-[INFO] Found desired element //input[@id='passwd']
+2015-01-05 10:30:26 [main]-[INFO] Type 123456 at //input[@id='passwd']
+2015-01-05 10:30:27 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:27 [main]-[INFO] Found element //button[@id= 'form_button']
+2015-01-05 10:30:27 [main]-[INFO] Found desired element //button[@id= 'form_button']
+2015-01-05 10:30:27 [main]-[INFO] Clicked //button[@id= 'form_button']
+2015-01-05 10:30:34 [main]-[INFO] Found element //a[@title='退出系统']
+2015-01-05 10:30:34 [main]-[INFO] Found desired element //a[@title='退出系统']
+2015-01-05 10:30:34 [main]-[INFO] 登陆成功！
+2015-01-05 10:30:34 [main]-[INFO] 进入' 干线任务管理'
+2015-01-05 10:30:35 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:35 [main]-[INFO] Found element //a[@title='移动任务']
+2015-01-05 10:30:35 [main]-[INFO] Found desired element //a[@title='移动任务']
+2015-01-05 10:30:35 [main]-[INFO] Clicked //a[@title='移动任务']
+2015-01-05 10:30:36 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:36 [main]-[INFO] Found element //a[@title='干线任务管理']
+2015-01-05 10:30:36 [main]-[INFO] Found desired element //a[@title='干线任务管理']
+2015-01-05 10:30:36 [main]-[INFO] Clicked //a[@title='干线任务管理']
+2015-01-05 10:30:36 [main]-[INFO] ------11111111111:[[Ljava.lang.String;@107bd0d------
+2015-01-05 10:30:36 [main]-[INFO] ------22222222222:{issign_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, issign_no=//a[text()='未确认'], cancel_title=//h4[@id='myModalLabel' and text()='任务取消'], assign_title=//h4[@id='myModalLabel' and text()='送货任务指派'], send_assign=//a[text()='下发'], select_sign=//option[text()='签收'], delivering_text=//a[@class='label label-primary grid_status1'], issued_no1=//a[text()=' 未下发(1)'], signNormal_text=//a[text()=' 正常签收(1)'], rollback_changeOK=//form[@id='custom']//div[2]//button[@class='btn btn-primary'], change_stateTitle=//h4[text()='状态变更'], assign_no=//a[text()=' 未指派(0)'], select_row=//tr[@class='odd']//td[3], noStartText1=//a[text()=' 未开始(1)'], issign_successNo=//span[@id='successNum'], task_code=//input[@name='taskcode'], sign=//a[text()='签收'], frame=//iframe[@id='content-frame'], btn_search=//a[@id='btnSearch'], select_delivering=//option[text()='提货中'], tinput2=//input[@id='tmpofpostman'], cancel_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, right_weizhipai=//a[text()=' 未指派(1)'], change_state=//a[text()='变更状态'], delivering_text1=//a[text()=' 提货中(1)'], CompleteType_signNormal=//span[text()='正常签收'], changeState_ok=//form[@id='customFieldForm']//div[2]//button[@class='btn btn-primary'], num_close=//div[@id='resultModal']//h4[1]/preceding-sibling::button, rollback_title=//h4[text()='状态回退'], right_taskbtn=//i[@class='fa fa-tasks'], cancel_successNo=//span[@id='successNum'], cancel_reason=//textarea[@id='selArea'], state_rollbackBtn=//div//a[2][@class='btn btn-default btn-only-one'], success_num=//span[@id='successNum'], cancel_text=//a[@class='donetype label label-danger'], tsave=//button[@id='saveAppoint'], cancel_ok=//button[@id='selSubmit'], tclick=//span[@class='select2-chosen' and text()='投递员姓名'], noStartText=//a[text()='未开始'], sign1=//a[text()=' 签收(1)'], issued_no=//a[text()='未下发'], task_time=//input[@name='tasktime'], task_weizhipai=//span[@class='label label-default'], issign_no1=//a[text()=' 未确认(1)'], cancel_btn=//a[text()='取消'], cancel_text1=//a[text()=' 取消(1)'], tmatch=//span[@class='select2-match'], select_noStart=//select[@id='statuslist_b']//option[text()='未开始'], tinput=//input[@id='s2id_autogen3']}------
+2015-01-05 10:30:36 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\TrunkData_temp.xls------
+2015-01-05 10:30:37 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:37 [main]-[INFO] Left the iframe
+2015-01-05 10:30:37 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:37 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:38 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:39 [main]-[INFO] Found element //a[text()='导入']
+2015-01-05 10:30:39 [main]-[INFO] Found desired element //a[text()='导入']
+2015-01-05 10:30:39 [main]-[INFO] Clicked //a[text()='导入']
+2015-01-05 10:30:40 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:40 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:41 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:41 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 10:30:41 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 10:30:41 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 10:30:42 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:42 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:30:42 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:30:42 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:30:43 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:43 [main]-[INFO] Left the iframe
+2015-01-05 10:30:43 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:43 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:44 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:44 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:30:44 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:30:44 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 10:30:45 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:45 [main]-[INFO] Left the iframe
+2015-01-05 10:30:45 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:45 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:46 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:46 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:30:46 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:30:46 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 10:30:47 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:47 [main]-[INFO] Left the iframe
+2015-01-05 10:30:47 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\addgoods_temp.xls------
+2015-01-05 10:30:48 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:48 [main]-[INFO] Left the iframe
+2015-01-05 10:30:48 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:48 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:49 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:49 [main]-[INFO] Found element //a[text()='导入货品']
+2015-01-05 10:30:49 [main]-[INFO] Found desired element //a[text()='导入货品']
+2015-01-05 10:30:49 [main]-[INFO] Clicked //a[text()='导入货品']
+2015-01-05 10:30:50 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:50 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:51 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:51 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 10:30:51 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 10:30:51 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 10:30:52 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:52 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:30:52 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:30:52 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 10:30:52 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:53 [main]-[INFO] Left the iframe
+2015-01-05 10:30:53 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:53 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:54 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:54 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:30:54 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 10:30:54 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 10:30:55 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:55 [main]-[INFO] Left the iframe
+2015-01-05 10:30:55 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:55 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:56 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:56 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:30:56 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 10:30:56 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 10:30:57 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:57 [main]-[INFO] Left the iframe
+2015-01-05 10:30:57 [main]-[INFO] ------查找 任务A:2015010501------
+2015-01-05 10:30:57 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:57 [main]-[INFO] Left the iframe
+2015-01-05 10:30:58 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:58 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:30:58 [main]-[INFO] Pause 500 ms
+2015-01-05 10:30:59 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 10:30:59 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 10:30:59 [main]-[INFO] Type 2015010501 at //input[@name='taskcode']
+2015-01-05 10:31:02 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:31:02 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:02 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 10:31:02 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 10:31:03 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 10:31:06 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:31:06 [main]-[INFO] **********************************实际任务号2015010501------
+2015-01-05 10:31:06 [main]-[INFO] **********************************查询任务A 测试通过
+2015-01-05 10:31:06 [main]-[INFO] **********************************实际状态未确认------
+2015-01-05 10:31:06 [main]-[INFO] **********************************查询任务A，状态正确，测试通过
+2015-01-05 10:31:06 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:06 [main]-[INFO] Left the iframe
+2015-01-05 10:31:07 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:07 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:07 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:07 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:07 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:08 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:08 [main]-[INFO] **********************************实际状态未确认(1)------
+2015-01-05 10:31:08 [main]-[INFO] **********************************查询任务A，快捷状态菜单 ，状态正确，测试通过
+2015-01-05 10:31:08 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:08 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:08 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:09 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:09 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:09 [main]-[INFO] Left the iframe
+2015-01-05 10:31:10 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:10 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:10 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:10 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:10 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:10 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:11 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:11 [main]-[INFO] Found element //a[text()='变更状态']
+2015-01-05 10:31:11 [main]-[INFO] Found desired element //a[text()='变更状态']
+2015-01-05 10:31:11 [main]-[INFO] Clicked //a[text()='变更状态']
+2015-01-05 10:31:12 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:12 [main]-[INFO] Found element //fieldset[@class='no-padding']//section/div/div/select/option[3]
+2015-01-05 10:31:12 [main]-[INFO] Found desired element //fieldset[@class='no-padding']//section/div/div/select/option[3]
+2015-01-05 10:31:12 [main]-[INFO] Clicked //fieldset[@class='no-padding']//section/div/div/select/option[3]
+2015-01-05 10:31:13 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:13 [main]-[INFO] Found element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 10:31:13 [main]-[INFO] Found desired element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 10:31:13 [main]-[INFO] Clicked //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 10:31:14 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:14 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:14 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:14 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:14 [main]-[INFO] **********************************实际状态2在途中(1)------
+2015-01-05 10:31:14 [main]-[INFO] **********************************查询任务A，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:31:15 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:15 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:15 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:15 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:15 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:15 [main]-[INFO] Left the iframe
+2015-01-05 10:31:16 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:16 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:16 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:17 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:17 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:17 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:17 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:17 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[2]
+2015-01-05 10:31:17 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[2]
+2015-01-05 10:31:18 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[2]
+2015-01-05 10:31:18 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:18 [main]-[INFO] Found element //select[@id='statuslist_b']/option[3]
+2015-01-05 10:31:18 [main]-[INFO] Found desired element //select[@id='statuslist_b']/option[3]
+2015-01-05 10:31:19 [main]-[INFO] Clicked //select[@id='statuslist_b']/option[3]
+2015-01-05 10:31:19 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:19 [main]-[INFO] Found element //div[@id='myModal_s']/div/div/div[3]/button[1]
+2015-01-05 10:31:19 [main]-[INFO] Found desired element //div[@id='myModal_s']/div/div/div[3]/button[1]
+2015-01-05 10:31:19 [main]-[INFO] Clicked //div[@id='myModal_s']/div/div/div[3]/button[1]
+2015-01-05 10:31:20 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:20 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:20 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:20 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:20 [main]-[INFO] **********************************实际状态未开始(1)------
+2015-01-05 10:31:20 [main]-[INFO] **********************************查询任务A，状态回退后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:31:21 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:21 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:21 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:21 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:22 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:22 [main]-[INFO] Left the iframe
+2015-01-05 10:31:22 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:22 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:23 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:23 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:23 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:23 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:24 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:24 [main]-[INFO] Found element //a[text()='变更状态']
+2015-01-05 10:31:24 [main]-[INFO] Found desired element //a[text()='变更状态']
+2015-01-05 10:31:24 [main]-[INFO] Clicked //a[text()='变更状态']
+2015-01-05 10:31:25 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:25 [main]-[INFO] Found element //select[@id='statuslist']/option[text()='完成']
+2015-01-05 10:31:25 [main]-[INFO] Found desired element //select[@id='statuslist']/option[text()='完成']
+2015-01-05 10:31:25 [main]-[INFO] Clicked //select[@id='statuslist']/option[text()='完成']
+2015-01-05 10:31:26 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:26 [main]-[INFO] Found element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 10:31:26 [main]-[INFO] Found desired element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 10:31:26 [main]-[INFO] Clicked //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 10:31:27 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:27 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:27 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:27 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:27 [main]-[INFO] **********************************实际状态完成(1)------
+2015-01-05 10:31:27 [main]-[INFO] **********************************查询任务A，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:31:28 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:28 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:28 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:28 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:29 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:29 [main]-[INFO] Left the iframe
+2015-01-05 10:31:29 [main]-[INFO] ------查找 任务B:2015010502------
+2015-01-05 10:31:29 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:29 [main]-[INFO] Left the iframe
+2015-01-05 10:31:30 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:30 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:30 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:30 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 10:31:30 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 10:31:31 [main]-[INFO] Type 2015010502 at //input[@name='taskcode']
+2015-01-05 10:31:34 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:31:34 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:34 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 10:31:34 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 10:31:34 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 10:31:37 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:31:37 [main]-[INFO] **********************************实际任务号2015010502------
+2015-01-05 10:31:37 [main]-[INFO] **********************************查询任务B 测试通过
+2015-01-05 10:31:37 [main]-[INFO] **********************************实际状态未下发------
+2015-01-05 10:31:37 [main]-[INFO] **********************************查询任务B，状态正确，测试通过
+2015-01-05 10:31:38 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:38 [main]-[INFO] Left the iframe
+2015-01-05 10:31:39 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:39 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:39 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:39 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:39 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:39 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:39 [main]-[INFO] **********************************实际状态未下发(1)------
+2015-01-05 10:31:39 [main]-[INFO] **********************************查询任务B，快捷状态菜单 ，状态正确，测试通过
+2015-01-05 10:31:40 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:40 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:40 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:40 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:41 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:41 [main]-[INFO] Left the iframe
+2015-01-05 10:31:41 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:41 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:42 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:42 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:42 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:42 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:31:43 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:43 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[2]
+2015-01-05 10:31:43 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[2]
+2015-01-05 10:31:43 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[2]
+2015-01-05 10:31:43 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:43 [main]-[INFO] Found element //textarea[@id='selArea']
+2015-01-05 10:31:43 [main]-[INFO] Found desired element //textarea[@id='selArea']
+2015-01-05 10:31:44 [main]-[INFO] Type aaaaaaaaaaaaaaaaaaaaaa at //textarea[@id='selArea']
+2015-01-05 10:31:44 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:44 [main]-[INFO] Found element //button[@id='submitBtn']
+2015-01-05 10:31:44 [main]-[INFO] Found desired element //button[@id='submitBtn']
+2015-01-05 10:31:44 [main]-[INFO] Clicked //button[@id='submitBtn']
+2015-01-05 10:31:45 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:45 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:31:45 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:31:45 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:31:46 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:46 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:46 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:46 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:46 [main]-[INFO] **********************************实际状态2改期(1)------
+2015-01-05 10:31:46 [main]-[INFO] **********************************查询任务B，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:31:47 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:47 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:47 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:47 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:47 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:47 [main]-[INFO] Left the iframe
+2015-01-05 10:31:48 [main]-[INFO] ------查找 任务C:2015010503------
+2015-01-05 10:31:48 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:48 [main]-[INFO] Left the iframe
+2015-01-05 10:31:49 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:49 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:49 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:49 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 10:31:49 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 10:31:49 [main]-[INFO] Type 2015010503 at //input[@name='taskcode']
+2015-01-05 10:31:52 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:31:53 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:53 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 10:31:53 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 10:31:53 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 10:31:56 [main]-[INFO] Pause 3000 ms
+2015-01-05 10:31:56 [main]-[INFO] **********************************实际任务号2015010503------
+2015-01-05 10:31:56 [main]-[INFO] **********************************查询任务C 测试通过
+2015-01-05 10:31:56 [main]-[INFO] **********************************实际状态未指派------
+2015-01-05 10:31:56 [main]-[INFO] **********************************查询任务C，状态正确，测试通过
+2015-01-05 10:31:57 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:57 [main]-[INFO] Left the iframe
+2015-01-05 10:31:57 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:57 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:31:58 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:58 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:58 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:58 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:31:58 [main]-[INFO] **********************************实际状态未指派(1)------
+2015-01-05 10:31:58 [main]-[INFO] **********************************查询任务A，快捷状态菜单 ，状态正确，测试通过
+2015-01-05 10:31:59 [main]-[INFO] Pause 500 ms
+2015-01-05 10:31:59 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:31:59 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:31:59 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:00 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:00 [main]-[INFO] Left the iframe
+2015-01-05 10:32:00 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:00 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:32:01 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:01 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:01 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:01 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:01 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:01 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[1]
+2015-01-05 10:32:01 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[1]
+2015-01-05 10:32:02 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[1]
+2015-01-05 10:32:02 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:02 [main]-[INFO] Found element //div[@id='s2id_postmanname']/a/span[1]
+2015-01-05 10:32:02 [main]-[INFO] Found desired element //div[@id='s2id_postmanname']/a/span[1]
+2015-01-05 10:32:02 [main]-[INFO] Clicked //div[@id='s2id_postmanname']/a/span[1]
+2015-01-05 10:32:03 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:03 [main]-[INFO] Found element //div[@id='select2-drop']/div/input
+2015-01-05 10:32:03 [main]-[INFO] Found desired element //div[@id='select2-drop']/div/input
+2015-01-05 10:32:03 [main]-[INFO] Type aaa at //div[@id='select2-drop']/div/input
+2015-01-05 10:32:04 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:04 [main]-[INFO] Found element //div[@id='select2-drop']/ul/li
+2015-01-05 10:32:04 [main]-[INFO] Found desired element //div[@id='select2-drop']/ul/li
+2015-01-05 10:32:04 [main]-[INFO] Clicked //div[@id='select2-drop']/ul/li
+2015-01-05 10:32:05 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:05 [main]-[INFO] Found element //button[@id='saveAppoint']
+2015-01-05 10:32:05 [main]-[INFO] Found desired element //button[@id='saveAppoint']
+2015-01-05 10:32:05 [main]-[INFO] Clicked //button[@id='saveAppoint']
+2015-01-05 10:32:05 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:05 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:05 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:06 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:06 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:06 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:06 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:06 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:06 [main]-[INFO] **********************************实际状态2未下发(1)------
+2015-01-05 10:32:06 [main]-[INFO] **********************************查询任务C，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:32:07 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:07 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:07 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:07 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:08 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:08 [main]-[INFO] Left the iframe
+2015-01-05 10:32:08 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:08 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:32:09 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:09 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:09 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:09 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:10 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:10 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[2]
+2015-01-05 10:32:10 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[2]
+2015-01-05 10:32:10 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[2]
+2015-01-05 10:32:10 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:11 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:11 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:11 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:11 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:11 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:11 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:11 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:12 [main]-[INFO] **********************************实际状态未确认(1)------
+2015-01-05 10:32:12 [main]-[INFO] **********************************查询任务C，状态未确认状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:32:12 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:12 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:12 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:12 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:13 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:13 [main]-[INFO] Left the iframe
+2015-01-05 10:32:13 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:13 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:32:14 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:14 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:14 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:14 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:15 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:15 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[3]
+2015-01-05 10:32:15 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[3]
+2015-01-05 10:32:15 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[3]
+2015-01-05 10:32:15 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:16 [main]-[INFO] Found element //button[@id='bot1-Msg1']
+2015-01-05 10:32:16 [main]-[INFO] Found desired element //button[@id='bot1-Msg1']
+2015-01-05 10:32:16 [main]-[INFO] Clicked //button[@id='bot1-Msg1']
+2015-01-05 10:32:25 [main]-[INFO] Pause 9000 ms
+2015-01-05 10:32:25 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:25 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:25 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:26 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:26 [main]-[INFO] **********************************实际状态未指派(1)------
+2015-01-05 10:32:26 [main]-[INFO] **********************************查询任务C，变更后为未指派状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:32:26 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:26 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:26 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:26 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:27 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:27 [main]-[INFO] Left the iframe
+2015-01-05 10:32:28 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:28 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 10:32:28 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:28 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:28 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:28 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 10:32:29 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:29 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[1]
+2015-01-05 10:32:29 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[1]
+2015-01-05 10:32:29 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[1]
+2015-01-05 10:32:30 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:30 [main]-[INFO] Found element //textarea[@id='selArea']
+2015-01-05 10:32:30 [main]-[INFO] Found desired element //textarea[@id='selArea']
+2015-01-05 10:32:30 [main]-[INFO] Type aaaaaaaaaaaaaaaaaaaaaa at //textarea[@id='selArea']
+2015-01-05 10:32:30 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:31 [main]-[INFO] Found element //button[@id='submitBtn']
+2015-01-05 10:32:31 [main]-[INFO] Found desired element //button[@id='submitBtn']
+2015-01-05 10:32:31 [main]-[INFO] Clicked //button[@id='submitBtn']
+2015-01-05 10:32:31 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:31 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:31 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:31 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 10:32:32 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:32 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:32 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:32 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:32 [main]-[INFO] **********************************实际状态2取消(1)------
+2015-01-05 10:32:32 [main]-[INFO] **********************************查询任务C，取消后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 10:32:33 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:33 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 10:32:33 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 10:32:33 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 10:32:34 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:34 [main]-[INFO] Left the iframe
+2015-01-05 10:32:34 [main]-[INFO] Pause 500 ms
+2015-01-05 10:32:34 [main]-[INFO] Quitted BrowserEmulator
+2015-01-05 15:45:36 [main]-[INFO] Using Firefox
+2015-01-05 15:45:37 [main]-[INFO] Started BrowserEmulator
+2015-01-05 15:45:38 [main]-[INFO] 登陆G7s: 'zc_admin' password: '123456'
+2015-01-05 15:45:39 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:41 [main]-[INFO] Opened url http://gateway2.huoyunren.net:8100/index.html
+2015-01-05 15:45:41 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:42 [main]-[INFO] Found element //input[@id='username']
+2015-01-05 15:45:42 [main]-[INFO] Found desired element //input[@id='username']
+2015-01-05 15:45:42 [main]-[INFO] Type zc_admin at //input[@id='username']
+2015-01-05 15:45:43 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:43 [main]-[INFO] Found element //input[@id='passwd']
+2015-01-05 15:45:43 [main]-[INFO] Found desired element //input[@id='passwd']
+2015-01-05 15:45:43 [main]-[INFO] Type 123456 at //input[@id='passwd']
+2015-01-05 15:45:44 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:44 [main]-[INFO] Found element //button[@id= 'form_button']
+2015-01-05 15:45:44 [main]-[INFO] Found desired element //button[@id= 'form_button']
+2015-01-05 15:45:45 [main]-[INFO] Clicked //button[@id= 'form_button']
+2015-01-05 15:45:52 [main]-[INFO] Found element //a[@title='退出系统']
+2015-01-05 15:45:52 [main]-[INFO] Found desired element //a[@title='退出系统']
+2015-01-05 15:45:52 [main]-[INFO] 登陆成功！
+2015-01-05 15:45:52 [main]-[INFO] 进入' 干线任务管理'
+2015-01-05 15:45:53 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:53 [main]-[INFO] Found element //a[@title='移动任务']
+2015-01-05 15:45:53 [main]-[INFO] Found desired element //a[@title='移动任务']
+2015-01-05 15:45:53 [main]-[INFO] Clicked //a[@title='移动任务']
+2015-01-05 15:45:53 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:53 [main]-[INFO] Found element //a[@title='干线任务管理']
+2015-01-05 15:45:53 [main]-[INFO] Found desired element //a[@title='干线任务管理']
+2015-01-05 15:45:54 [main]-[INFO] Clicked //a[@title='干线任务管理']
+2015-01-05 15:45:54 [main]-[INFO] ------11111111111:[[Ljava.lang.String;@12a73d9------
+2015-01-05 15:45:54 [main]-[INFO] ------22222222222:{issign_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, issign_no=//a[text()='未确认'], cancel_title=//h4[@id='myModalLabel' and text()='任务取消'], assign_title=//h4[@id='myModalLabel' and text()='送货任务指派'], send_assign=//a[text()='下发'], select_sign=//option[text()='签收'], delivering_text=//a[@class='label label-primary grid_status1'], issued_no1=//a[text()=' 未下发(1)'], signNormal_text=//a[text()=' 正常签收(1)'], rollback_changeOK=//form[@id='custom']//div[2]//button[@class='btn btn-primary'], change_stateTitle=//h4[text()='状态变更'], assign_no=//a[text()=' 未指派(0)'], select_row=//tr[@class='odd']//td[3], noStartText1=//a[text()=' 未开始(1)'], issign_successNo=//span[@id='successNum'], task_code=//input[@name='taskcode'], sign=//a[text()='签收'], frame=//iframe[@id='content-frame'], btn_search=//a[@id='btnSearch'], select_delivering=//option[text()='提货中'], tinput2=//input[@id='tmpofpostman'], cancel_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, right_weizhipai=//a[text()=' 未指派(1)'], change_state=//a[text()='变更状态'], delivering_text1=//a[text()=' 提货中(1)'], CompleteType_signNormal=//span[text()='正常签收'], changeState_ok=//form[@id='customFieldForm']//div[2]//button[@class='btn btn-primary'], num_close=//div[@id='resultModal']//h4[1]/preceding-sibling::button, rollback_title=//h4[text()='状态回退'], right_taskbtn=//i[@class='fa fa-tasks'], cancel_successNo=//span[@id='successNum'], cancel_reason=//textarea[@id='selArea'], state_rollbackBtn=//div//a[2][@class='btn btn-default btn-only-one'], success_num=//span[@id='successNum'], cancel_text=//a[@class='donetype label label-danger'], tsave=//button[@id='saveAppoint'], cancel_ok=//button[@id='selSubmit'], tclick=//span[@class='select2-chosen' and text()='投递员姓名'], noStartText=//a[text()='未开始'], sign1=//a[text()=' 签收(1)'], issued_no=//a[text()='未下发'], task_time=//input[@name='tasktime'], task_weizhipai=//span[@class='label label-default'], issign_no1=//a[text()=' 未确认(1)'], cancel_btn=//a[text()='取消'], cancel_text1=//a[text()=' 取消(1)'], tmatch=//span[@class='select2-match'], select_noStart=//select[@id='statuslist_b']//option[text()='未开始'], tinput=//input[@id='s2id_autogen3']}------
+2015-01-05 15:45:54 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\TrunkData_temp.xls------
+2015-01-05 15:45:55 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:55 [main]-[INFO] Left the iframe
+2015-01-05 15:45:56 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:57 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:45:57 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:57 [main]-[INFO] Found element //a[text()='导入']
+2015-01-05 15:45:57 [main]-[INFO] Found desired element //a[text()='导入']
+2015-01-05 15:45:57 [main]-[INFO] Clicked //a[text()='导入']
+2015-01-05 15:45:58 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:58 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:45:59 [main]-[INFO] Pause 500 ms
+2015-01-05 15:45:59 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 15:45:59 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 15:45:59 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 15:46:00 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:00 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:46:00 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:46:00 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:46:01 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:01 [main]-[INFO] Left the iframe
+2015-01-05 15:46:02 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:02 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:46:02 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:02 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 15:46:02 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 15:46:03 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 15:46:04 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:04 [main]-[INFO] Left the iframe
+2015-01-05 15:46:04 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:04 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:46:05 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:05 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 15:46:05 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 15:46:06 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 15:46:06 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:07 [main]-[INFO] Left the iframe
+2015-01-05 15:46:07 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\addgoods_temp.xls------
+2015-01-05 15:46:08 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:08 [main]-[INFO] Left the iframe
+2015-01-05 15:46:08 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:08 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:46:09 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:09 [main]-[INFO] Found element //a[text()='导入货品']
+2015-01-05 15:46:09 [main]-[INFO] Found desired element //a[text()='导入货品']
+2015-01-05 15:46:09 [main]-[INFO] Clicked //a[text()='导入货品']
+2015-01-05 15:46:10 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:10 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:46:11 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:11 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 15:46:11 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 15:46:11 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 15:46:12 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:12 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:46:12 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:46:12 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:46:13 [main]-[INFO] Pause 500 ms
+2015-01-05 15:46:14 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:36 [main]-[INFO] Using Firefox
+2015-01-05 15:50:37 [main]-[INFO] Started BrowserEmulator
+2015-01-05 15:50:37 [main]-[INFO] 登陆G7s: 'zc_admin' password: '123456'
+2015-01-05 15:50:37 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:38 [main]-[INFO] Opened url http://gateway2.huoyunren.net:8100/index.html
+2015-01-05 15:50:39 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:39 [main]-[INFO] Found element //input[@id='username']
+2015-01-05 15:50:39 [main]-[INFO] Found desired element //input[@id='username']
+2015-01-05 15:50:41 [main]-[INFO] Type zc_admin at //input[@id='username']
+2015-01-05 15:50:41 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:41 [main]-[INFO] Found element //input[@id='passwd']
+2015-01-05 15:50:41 [main]-[INFO] Found desired element //input[@id='passwd']
+2015-01-05 15:50:41 [main]-[INFO] Type 123456 at //input[@id='passwd']
+2015-01-05 15:50:42 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:42 [main]-[INFO] Found element //button[@id= 'form_button']
+2015-01-05 15:50:42 [main]-[INFO] Found desired element //button[@id= 'form_button']
+2015-01-05 15:50:42 [main]-[INFO] Clicked //button[@id= 'form_button']
+2015-01-05 15:50:49 [main]-[INFO] Found element //a[@title='退出系统']
+2015-01-05 15:50:49 [main]-[INFO] Found desired element //a[@title='退出系统']
+2015-01-05 15:50:49 [main]-[INFO] 登陆成功！
+2015-01-05 15:50:49 [main]-[INFO] 进入' 干线任务管理'
+2015-01-05 15:50:50 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:50 [main]-[INFO] Found element //a[@title='移动任务']
+2015-01-05 15:50:50 [main]-[INFO] Found desired element //a[@title='移动任务']
+2015-01-05 15:50:50 [main]-[INFO] Clicked //a[@title='移动任务']
+2015-01-05 15:50:50 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:51 [main]-[INFO] Found element //a[@title='干线任务管理']
+2015-01-05 15:50:51 [main]-[INFO] Found desired element //a[@title='干线任务管理']
+2015-01-05 15:50:51 [main]-[INFO] Clicked //a[@title='干线任务管理']
+2015-01-05 15:50:51 [main]-[INFO] ------11111111111:[[Ljava.lang.String;@53c3f5------
+2015-01-05 15:50:51 [main]-[INFO] ------22222222222:{issign_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, issign_no=//a[text()='未确认'], cancel_title=//h4[@id='myModalLabel' and text()='任务取消'], assign_title=//h4[@id='myModalLabel' and text()='送货任务指派'], send_assign=//a[text()='下发'], select_sign=//option[text()='签收'], delivering_text=//a[@class='label label-primary grid_status1'], issued_no1=//a[text()=' 未下发(1)'], signNormal_text=//a[text()=' 正常签收(1)'], rollback_changeOK=//form[@id='custom']//div[2]//button[@class='btn btn-primary'], change_stateTitle=//h4[text()='状态变更'], assign_no=//a[text()=' 未指派(0)'], select_row=//tr[@class='odd']//td[3], noStartText1=//a[text()=' 未开始(1)'], issign_successNo=//span[@id='successNum'], task_code=//input[@name='taskcode'], sign=//a[text()='签收'], frame=//iframe[@id='content-frame'], btn_search=//a[@id='btnSearch'], select_delivering=//option[text()='提货中'], tinput2=//input[@id='tmpofpostman'], cancel_successClose=//div[@id='resultModal']//h4[1]/preceding-sibling::button, right_weizhipai=//a[text()=' 未指派(1)'], change_state=//a[text()='变更状态'], delivering_text1=//a[text()=' 提货中(1)'], CompleteType_signNormal=//span[text()='正常签收'], changeState_ok=//form[@id='customFieldForm']//div[2]//button[@class='btn btn-primary'], num_close=//div[@id='resultModal']//h4[1]/preceding-sibling::button, rollback_title=//h4[text()='状态回退'], right_taskbtn=//i[@class='fa fa-tasks'], cancel_successNo=//span[@id='successNum'], cancel_reason=//textarea[@id='selArea'], state_rollbackBtn=//div//a[2][@class='btn btn-default btn-only-one'], success_num=//span[@id='successNum'], cancel_text=//a[@class='donetype label label-danger'], tsave=//button[@id='saveAppoint'], cancel_ok=//button[@id='selSubmit'], tclick=//span[@class='select2-chosen' and text()='投递员姓名'], noStartText=//a[text()='未开始'], sign1=//a[text()=' 签收(1)'], issued_no=//a[text()='未下发'], task_time=//input[@name='tasktime'], task_weizhipai=//span[@class='label label-default'], issign_no1=//a[text()=' 未确认(1)'], cancel_btn=//a[text()='取消'], cancel_text1=//a[text()=' 取消(1)'], tmatch=//span[@class='select2-match'], select_noStart=//select[@id='statuslist_b']//option[text()='未开始'], tinput=//input[@id='s2id_autogen3']}------
+2015-01-05 15:50:51 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\TrunkData_temp.xls------
+2015-01-05 15:50:52 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:52 [main]-[INFO] Left the iframe
+2015-01-05 15:50:53 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:53 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:50:54 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:54 [main]-[INFO] Found element //a[text()='导入']
+2015-01-05 15:50:54 [main]-[INFO] Found desired element //a[text()='导入']
+2015-01-05 15:50:54 [main]-[INFO] Clicked //a[text()='导入']
+2015-01-05 15:50:55 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:55 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:50:56 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:56 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 15:50:56 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 15:50:56 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 15:50:56 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:57 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:50:57 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:50:57 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:50:57 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:57 [main]-[INFO] Left the iframe
+2015-01-05 15:50:58 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:58 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:50:58 [main]-[INFO] Pause 500 ms
+2015-01-05 15:50:59 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 15:50:59 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 15:50:59 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 15:51:00 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:00 [main]-[INFO] Left the iframe
+2015-01-05 15:51:00 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:00 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:01 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:01 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 15:51:01 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 15:51:01 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 15:51:02 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:02 [main]-[INFO] Left the iframe
+2015-01-05 15:51:02 [main]-[INFO] ------文件地址:D:\test\G7sAutomation\resource\data\addgoods_temp.xls------
+2015-01-05 15:51:03 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:03 [main]-[INFO] Left the iframe
+2015-01-05 15:51:03 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:03 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:04 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:04 [main]-[INFO] Found element //a[text()='导入货品']
+2015-01-05 15:51:04 [main]-[INFO] Found desired element //a[text()='导入货品']
+2015-01-05 15:51:04 [main]-[INFO] Clicked //a[text()='导入货品']
+2015-01-05 15:51:05 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:05 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:06 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:06 [main]-[INFO] Found element //label[@class='radio'][2]/i
+2015-01-05 15:51:06 [main]-[INFO] Found desired element //label[@class='radio'][2]/i
+2015-01-05 15:51:06 [main]-[INFO] Clicked //label[@class='radio'][2]/i
+2015-01-05 15:51:07 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:07 [main]-[INFO] Found element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:51:07 [main]-[INFO] Found desired element //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:51:07 [main]-[INFO] Clicked //form[@id='frmInfo']/footer/button[1]
+2015-01-05 15:51:07 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:08 [main]-[INFO] Left the iframe
+2015-01-05 15:51:08 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:08 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:09 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:09 [main]-[INFO] Found element //form[@id='import_form']/footer/button[2]
+2015-01-05 15:51:09 [main]-[INFO] Found desired element //form[@id='import_form']/footer/button[2]
+2015-01-05 15:51:09 [main]-[INFO] Clicked //form[@id='import_form']/footer/button[2]
+2015-01-05 15:51:10 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:10 [main]-[INFO] Left the iframe
+2015-01-05 15:51:10 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:10 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:11 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:11 [main]-[INFO] Found element //button[@class='btn btn-primary pull-left']
+2015-01-05 15:51:11 [main]-[INFO] Found desired element //button[@class='btn btn-primary pull-left']
+2015-01-05 15:51:11 [main]-[INFO] Clicked //button[@class='btn btn-primary pull-left']
+2015-01-05 15:51:12 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:12 [main]-[INFO] Left the iframe
+2015-01-05 15:51:12 [main]-[INFO] ------查找 任务A:2015010504------
+2015-01-05 15:51:13 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:13 [main]-[INFO] Left the iframe
+2015-01-05 15:51:13 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:13 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:14 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:14 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 15:51:14 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 15:51:14 [main]-[INFO] Type 2015010504 at //input[@name='taskcode']
+2015-01-05 15:51:17 [main]-[INFO] Pause 3000 ms
+2015-01-05 15:51:18 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:18 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 15:51:18 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 15:51:18 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 15:51:21 [main]-[INFO] Pause 3000 ms
+2015-01-05 15:51:21 [main]-[INFO] **********************************实际任务号2015010504------
+2015-01-05 15:51:21 [main]-[INFO] **********************************查询任务A 测试通过
+2015-01-05 15:51:21 [main]-[INFO] **********************************实际状态未确认------
+2015-01-05 15:51:21 [main]-[INFO] **********************************查询任务A，状态正确，测试通过
+2015-01-05 15:51:22 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:22 [main]-[INFO] Left the iframe
+2015-01-05 15:51:22 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:22 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:23 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:23 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:23 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:23 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:23 [main]-[INFO] **********************************实际状态未确认(1)------
+2015-01-05 15:51:23 [main]-[INFO] **********************************查询任务A，快捷状态菜单 ，状态正确，测试通过
+2015-01-05 15:51:24 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:24 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:24 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:24 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:25 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:25 [main]-[INFO] Left the iframe
+2015-01-05 15:51:25 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:25 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:26 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:26 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:26 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:26 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:27 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:27 [main]-[INFO] Found element //a[text()='变更状态']
+2015-01-05 15:51:27 [main]-[INFO] Found desired element //a[text()='变更状态']
+2015-01-05 15:51:27 [main]-[INFO] Clicked //a[text()='变更状态']
+2015-01-05 15:51:27 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:27 [main]-[INFO] Found element //fieldset[@class='no-padding']//section/div/div/select/option[3]
+2015-01-05 15:51:27 [main]-[INFO] Found desired element //fieldset[@class='no-padding']//section/div/div/select/option[3]
+2015-01-05 15:51:28 [main]-[INFO] Clicked //fieldset[@class='no-padding']//section/div/div/select/option[3]
+2015-01-05 15:51:29 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:29 [main]-[INFO] Found element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 15:51:29 [main]-[INFO] Found desired element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 15:51:29 [main]-[INFO] Clicked //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 15:51:29 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:30 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:30 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:30 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:30 [main]-[INFO] **********************************实际状态2在途中(1)------
+2015-01-05 15:51:30 [main]-[INFO] **********************************查询任务A，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:51:31 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:31 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:31 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:31 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:31 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:31 [main]-[INFO] Left the iframe
+2015-01-05 15:51:32 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:32 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:33 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:33 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:33 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:33 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:34 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:34 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[2]
+2015-01-05 15:51:34 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[2]
+2015-01-05 15:51:34 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[2]
+2015-01-05 15:51:34 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:34 [main]-[INFO] Found element //select[@id='statuslist_b']/option[3]
+2015-01-05 15:51:34 [main]-[INFO] Found desired element //select[@id='statuslist_b']/option[3]
+2015-01-05 15:51:35 [main]-[INFO] Clicked //select[@id='statuslist_b']/option[3]
+2015-01-05 15:51:35 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:36 [main]-[INFO] Found element //div[@id='myModal_s']/div/div/div[3]/button[1]
+2015-01-05 15:51:36 [main]-[INFO] Found desired element //div[@id='myModal_s']/div/div/div[3]/button[1]
+2015-01-05 15:51:36 [main]-[INFO] Clicked //div[@id='myModal_s']/div/div/div[3]/button[1]
+2015-01-05 15:51:36 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:36 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:36 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:37 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:37 [main]-[INFO] **********************************实际状态未开始(1)------
+2015-01-05 15:51:37 [main]-[INFO] **********************************查询任务A，状态回退后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:51:37 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:37 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:37 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:38 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:38 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:38 [main]-[INFO] Left the iframe
+2015-01-05 15:51:39 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:39 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:39 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:39 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:39 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:39 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:40 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:40 [main]-[INFO] Found element //a[text()='变更状态']
+2015-01-05 15:51:40 [main]-[INFO] Found desired element //a[text()='变更状态']
+2015-01-05 15:51:40 [main]-[INFO] Clicked //a[text()='变更状态']
+2015-01-05 15:51:41 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:41 [main]-[INFO] Found element //select[@id='statuslist']/option[text()='完成']
+2015-01-05 15:51:41 [main]-[INFO] Found desired element //select[@id='statuslist']/option[text()='完成']
+2015-01-05 15:51:42 [main]-[INFO] Clicked //select[@id='statuslist']/option[text()='完成']
+2015-01-05 15:51:42 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:42 [main]-[INFO] Found element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 15:51:42 [main]-[INFO] Found desired element //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 15:51:43 [main]-[INFO] Clicked //div[@id='myModal']/div/div/div[3]/button[1]
+2015-01-05 15:51:43 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:43 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:43 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:44 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:44 [main]-[INFO] **********************************实际状态完成(1)------
+2015-01-05 15:51:44 [main]-[INFO] **********************************查询任务A，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:51:44 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:44 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:44 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:45 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:45 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:45 [main]-[INFO] Left the iframe
+2015-01-05 15:51:45 [main]-[INFO] ------查找 任务B:2015010505------
+2015-01-05 15:51:46 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:46 [main]-[INFO] Left the iframe
+2015-01-05 15:51:46 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:46 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:47 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:47 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 15:51:47 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 15:51:47 [main]-[INFO] Type 2015010505 at //input[@name='taskcode']
+2015-01-05 15:51:50 [main]-[INFO] Pause 3000 ms
+2015-01-05 15:51:51 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:51 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 15:51:51 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 15:51:51 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 15:51:54 [main]-[INFO] Pause 3000 ms
+2015-01-05 15:51:54 [main]-[INFO] **********************************实际任务号2015010505------
+2015-01-05 15:51:54 [main]-[INFO] **********************************查询任务B 测试通过
+2015-01-05 15:51:54 [main]-[INFO] **********************************实际状态未下发------
+2015-01-05 15:51:54 [main]-[INFO] **********************************查询任务B，状态正确，测试通过
+2015-01-05 15:51:55 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:55 [main]-[INFO] Left the iframe
+2015-01-05 15:51:55 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:55 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:56 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:56 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:56 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:56 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:56 [main]-[INFO] **********************************实际状态未下发(1)------
+2015-01-05 15:51:56 [main]-[INFO] **********************************查询任务B，快捷状态菜单 ，状态正确，测试通过
+2015-01-05 15:51:57 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:57 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:51:57 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:51:57 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:51:58 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:58 [main]-[INFO] Left the iframe
+2015-01-05 15:51:58 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:58 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:51:59 [main]-[INFO] Pause 500 ms
+2015-01-05 15:51:59 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:59 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:51:59 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:00 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:00 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[2]
+2015-01-05 15:52:00 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[2]
+2015-01-05 15:52:00 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[2]
+2015-01-05 15:52:00 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:00 [main]-[INFO] Found element //textarea[@id='selArea']
+2015-01-05 15:52:00 [main]-[INFO] Found desired element //textarea[@id='selArea']
+2015-01-05 15:52:01 [main]-[INFO] Type aaaaaaaaaaaaaaaaaaaaaa at //textarea[@id='selArea']
+2015-01-05 15:52:01 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:02 [main]-[INFO] Found element //button[@id='submitBtn']
+2015-01-05 15:52:02 [main]-[INFO] Found desired element //button[@id='submitBtn']
+2015-01-05 15:52:02 [main]-[INFO] Clicked //button[@id='submitBtn']
+2015-01-05 15:52:03 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:03 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:03 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:03 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:04 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:04 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:04 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:04 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:04 [main]-[INFO] **********************************实际状态2改期(1)------
+2015-01-05 15:52:04 [main]-[INFO] **********************************查询任务B，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:52:05 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:05 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:05 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:06 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:06 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:06 [main]-[INFO] Left the iframe
+2015-01-05 15:52:06 [main]-[INFO] ------查找 任务C:2015010506------
+2015-01-05 15:52:07 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:07 [main]-[INFO] Left the iframe
+2015-01-05 15:52:07 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:07 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:52:08 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:08 [main]-[INFO] Found element //input[@name='taskcode']
+2015-01-05 15:52:08 [main]-[INFO] Found desired element //input[@name='taskcode']
+2015-01-05 15:52:08 [main]-[INFO] Type 2015010506 at //input[@name='taskcode']
+2015-01-05 15:52:11 [main]-[INFO] Pause 3000 ms
+2015-01-05 15:52:12 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:12 [main]-[INFO] Found element //a[@id='btnSearch']
+2015-01-05 15:52:12 [main]-[INFO] Found desired element //a[@id='btnSearch']
+2015-01-05 15:52:12 [main]-[INFO] Clicked //a[@id='btnSearch']
+2015-01-05 15:52:15 [main]-[INFO] Pause 3000 ms
+2015-01-05 15:52:15 [main]-[INFO] **********************************实际任务号2015010506------
+2015-01-05 15:52:15 [main]-[INFO] **********************************查询任务C 测试通过
+2015-01-05 15:52:15 [main]-[INFO] **********************************实际状态未指派------
+2015-01-05 15:52:15 [main]-[INFO] **********************************查询任务C，状态正确，测试通过
+2015-01-05 15:52:16 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:16 [main]-[INFO] Left the iframe
+2015-01-05 15:52:16 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:16 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:52:17 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:17 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:17 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:17 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:17 [main]-[INFO] **********************************实际状态未指派(1)------
+2015-01-05 15:52:17 [main]-[INFO] **********************************查询任务A，快捷状态菜单 ，状态正确，测试通过
+2015-01-05 15:52:18 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:18 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:18 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:18 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:19 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:19 [main]-[INFO] Left the iframe
+2015-01-05 15:52:19 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:19 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:52:20 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:20 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:20 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:20 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:20 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:21 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[1]
+2015-01-05 15:52:21 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[1]
+2015-01-05 15:52:21 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[1]
+2015-01-05 15:52:21 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:21 [main]-[INFO] Found element //div[@id='s2id_postmanname']/a/span[1]
+2015-01-05 15:52:21 [main]-[INFO] Found desired element //div[@id='s2id_postmanname']/a/span[1]
+2015-01-05 15:52:22 [main]-[INFO] Clicked //div[@id='s2id_postmanname']/a/span[1]
+2015-01-05 15:52:22 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:22 [main]-[INFO] Found element //div[@id='select2-drop']/div/input
+2015-01-05 15:52:22 [main]-[INFO] Found desired element //div[@id='select2-drop']/div/input
+2015-01-05 15:52:23 [main]-[INFO] Type aaa at //div[@id='select2-drop']/div/input
+2015-01-05 15:52:23 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:23 [main]-[INFO] Found element //div[@id='select2-drop']/ul/li
+2015-01-05 15:52:23 [main]-[INFO] Found desired element //div[@id='select2-drop']/ul/li
+2015-01-05 15:52:23 [main]-[INFO] Clicked //div[@id='select2-drop']/ul/li
+2015-01-05 15:52:24 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:24 [main]-[INFO] Found element //button[@id='saveAppoint']
+2015-01-05 15:52:24 [main]-[INFO] Found desired element //button[@id='saveAppoint']
+2015-01-05 15:52:24 [main]-[INFO] Clicked //button[@id='saveAppoint']
+2015-01-05 15:52:25 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:25 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:25 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:25 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:26 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:26 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:26 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:26 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:26 [main]-[INFO] **********************************实际状态2未下发(1)------
+2015-01-05 15:52:26 [main]-[INFO] **********************************查询任务C，变更后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:52:27 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:27 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:27 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:27 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:27 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:27 [main]-[INFO] Left the iframe
+2015-01-05 15:52:28 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:28 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:52:28 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:28 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:28 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:29 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:29 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:29 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[2]
+2015-01-05 15:52:29 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[2]
+2015-01-05 15:52:29 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[3]/a[2]
+2015-01-05 15:52:30 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:30 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:30 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:30 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:31 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:31 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:31 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:31 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:31 [main]-[INFO] **********************************实际状态未确认(1)------
+2015-01-05 15:52:31 [main]-[INFO] **********************************查询任务C，状态未确认状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:52:32 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:32 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:32 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:32 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:33 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:33 [main]-[INFO] Left the iframe
+2015-01-05 15:52:33 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:33 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:52:34 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:34 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:34 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:34 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:34 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:35 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[3]
+2015-01-05 15:52:35 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[3]
+2015-01-05 15:52:36 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[5]/a[3]
+2015-01-05 15:52:36 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:36 [main]-[INFO] Found element //button[@id='bot1-Msg1']
+2015-01-05 15:52:36 [main]-[INFO] Found desired element //button[@id='bot1-Msg1']
+2015-01-05 15:52:37 [main]-[INFO] Clicked //button[@id='bot1-Msg1']
+2015-01-05 15:52:46 [main]-[INFO] Pause 9000 ms
+2015-01-05 15:52:46 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:46 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:46 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:47 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:47 [main]-[INFO] **********************************实际状态未指派(1)------
+2015-01-05 15:52:47 [main]-[INFO] **********************************查询任务C，变更后为未指派状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:52:47 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:47 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:47 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:48 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:48 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:48 [main]-[INFO] Left the iframe
+2015-01-05 15:52:49 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:49 [main]-[INFO] Entered iframe //iframe[@id='content-frame']
+2015-01-05 15:52:49 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:49 [main]-[INFO] Found element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:49 [main]-[INFO] Found desired element //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:50 [main]-[INFO] Clicked //tbody[@role='alert']/tr/td[1]
+2015-01-05 15:52:50 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:50 [main]-[INFO] Found element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[1]
+2015-01-05 15:52:50 [main]-[INFO] Found desired element //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[1]
+2015-01-05 15:52:50 [main]-[INFO] Clicked //div[@id='wid-id-0']/div/div/div[3]/div/div[4]/a[1]
+2015-01-05 15:52:51 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:51 [main]-[INFO] Found element //textarea[@id='selArea']
+2015-01-05 15:52:51 [main]-[INFO] Found desired element //textarea[@id='selArea']
+2015-01-05 15:52:51 [main]-[INFO] Type aaaaaaaaaaaaaaaaaaaaaa at //textarea[@id='selArea']
+2015-01-05 15:52:52 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:52 [main]-[INFO] Found element //button[@id='submitBtn']
+2015-01-05 15:52:52 [main]-[INFO] Found desired element //button[@id='submitBtn']
+2015-01-05 15:52:52 [main]-[INFO] Clicked //button[@id='submitBtn']
+2015-01-05 15:52:53 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:53 [main]-[INFO] Found element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:53 [main]-[INFO] Found desired element //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:53 [main]-[INFO] Clicked //div[@id='resultModal']/div/div/div/button
+2015-01-05 15:52:54 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:54 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:54 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:54 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:54 [main]-[INFO] **********************************实际状态2取消(1)------
+2015-01-05 15:52:54 [main]-[INFO] **********************************查询任务C，取消后状态正确，快捷状态菜单 状态正确，测试通过
+2015-01-05 15:52:55 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:55 [main]-[INFO] Found element //span[@class='chat-list-open-close']
+2015-01-05 15:52:55 [main]-[INFO] Found desired element //span[@class='chat-list-open-close']
+2015-01-05 15:52:55 [main]-[INFO] Clicked //span[@class='chat-list-open-close']
+2015-01-05 15:52:56 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:56 [main]-[INFO] Left the iframe
+2015-01-05 15:52:56 [main]-[INFO] Pause 500 ms
+2015-01-05 15:52:57 [main]-[INFO] Quitted BrowserEmulator
